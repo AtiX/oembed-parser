@@ -8,6 +8,7 @@ logs
 *.seed
 
 node_modules
+dist
 coverage
 coverage.lcov
 .nyc_output
